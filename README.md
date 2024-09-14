@@ -1,4 +1,4 @@
-# Orientacion a Objetos (4to cuatrimestre)
+# Orientacion a Objetos 1 (4to cuatrimestre)
  > NOTA: preparate pq lo vas a pasar mal (mentira) 
 
 en el siguiente enlace, encontraras material con respecto a las cursadas:
